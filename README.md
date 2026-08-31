@@ -1,5 +1,6 @@
 # xrRNA
 Analysis of Xrn1-resistant RNA, classes: 1a, 1b, 2, 3.
+
 <img width="560" height="714" alt="image" src="https://github.com/user-attachments/assets/2759aa8c-cfc2-4ea5-b969-16f5c01c3337" />
 
 Values near or at 0 bits demonstrate that corresponding positions are conserved across aligned sequences of their respective class. This  indicates that these positions account for the essential structures and/or functions of the molecule. The appearance of columns in the region between 1.5 to 2.0 bits demonstrate the presence of nonconserved regions, or regions that are not the same across alignments due to their lack of significance to change xrRNA's structure and/or function.
