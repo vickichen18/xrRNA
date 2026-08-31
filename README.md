@@ -1,5 +1,5 @@
 # xrRNA
-Analysis of Xrn1-resistant RNA, classes: 1a, 1b, 2, 3.
+Analysis of Xrn1-resistant RNA, classes: 1a, 1b, 2, 3 after alignment and array generation.
 
 <img width="560" height="714" alt="image" src="https://github.com/user-attachments/assets/2759aa8c-cfc2-4ea5-b969-16f5c01c3337" />
 
